@@ -7,3 +7,4 @@ series.loc["iv"] = 7
 print(series.iloc[2])
 # print(series.loc["iv"])
 print(series[series%2==0])
+print(series)
